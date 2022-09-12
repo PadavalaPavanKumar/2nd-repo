@@ -1,0 +1,35 @@
+<class>
+	<employeeDetails>
+		<id>1</id>
+		<name>pavan</name>
+		<project>trax</project>
+		<domain>java,sql</domain>
+		<salary>300000</salary>
+		<experience>fresher</experience>
+	</employeeDetails>
+	<employeeDetails>
+		<id>2</id>
+		<name>kavya</name>
+		<project>trifacta</project>
+		<domain>java,sql</domain>
+		<salary>300000</salary>
+		<experience>fresher</experience>
+	</employeeDetails>
+	<employeeDetails>
+		<id>3</id>
+		<name>poorna</name>
+		<project>fortegra</project>
+		<domain>java</domain>
+		<salary>300000</salary>
+		<experience>fresher</experience>
+	</employeeDetails>
+	<employeeDetails>
+	<id>4</id>
+	<name>revanth</name>
+	<project>trax</project>
+	<domain>java</domain>
+	<salary>300000</salary>
+	<experience>fresher1</experience>
+	</employeeDetails>
+</class>
+

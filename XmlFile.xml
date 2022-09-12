@@ -1,0 +1,12 @@
+<class>
+<EmployeeDetailsSubClass>
+	<id>1</id>
+	<name>pavan</name>
+	<age>23</age>
+</EmployeeDetailsSubClass>
+<EmployeeDetailsSubClass>
+	<id>2</id>
+	<name>kavya</name>
+	<age>21</age>
+</EmployeeDetailsSubClass>
+</class>
